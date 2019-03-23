@@ -32,7 +32,7 @@ chef ALL=(ALL) NOPASSWD:ALL
 
 ## Acesse o chef-server
 ### Criando um novo usuário e uma nova organização
-obs:. Pule essa etapa caso já tenha um usuário e uma organização
+obs: Pule essa etapa caso já tenha um usuário e uma organização
 
 Os comandos abaixo servem para criar um diretório comum para armazenar as chaves do chef,
 criar o usuário e criar uma organização no chef server
